@@ -8,7 +8,7 @@ function searchMovie(){
 		type : 'get',
 		dataType:'json',
 		data:{
-			'apikey':'b8a2e0ff',
+			'apikey':'',
 			's':$('#search-input').val()
 		},
 
